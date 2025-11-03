@@ -1,11 +1,14 @@
 ABS Tranche Cash Flow and Yield Model (Excel)
 
+
 This Excel model simulates cash flow performance and yield metrics for a simplified Asset-Backed Security (ABS) structure with multiple tranches — Senior, Mezzanine, and Equity. It provides a foundation for analyzing risk-return profiles and expected yields under base and stress scenarios.
+
 
 Overview
 
 The workbook calculates Internal Rate of Return (IRR) and Weighted Average Life (WAL) for each tranche based on projected cash inflows and outflows.
 It helps visualize how credit subordination and structural risk impact tranche-level returns and timing of cash recovery.
+
 
 Key Features
 
